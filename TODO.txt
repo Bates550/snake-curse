@@ -1,0 +1,4 @@
+TODO List
+
+1 Alter input receiving so that the snake can only move once per time period ("turn"), which is determined by the speed of the snake (i.e. the difficulty)
+2 Allow for use of different fonts or at least different symbols ??
